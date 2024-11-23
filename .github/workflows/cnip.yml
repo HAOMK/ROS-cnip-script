@@ -23,8 +23,11 @@ jobs:
      
     - name: Combine
       run: |
+        qqwry="$(curl -kLfsm 5 https://raw.githubusercontent.com/metowolf/iplist/master/data/special/china.txt)"
+        ipipnet="$(curl -kLfsm 5 https://raw.githubusercontent.com/17mon/china_ip_list/master/china_ip_list.txt)"
         clang="$(curl -kLfsm 5 https://ispip.clang.cn/all_cn_cidr.txt)"
-        echo -e "${clang}" | sed -e 's/^/add address=/g' -e 's/$/ list=CNIP/g' | sed -e $'1i\\\n/ip firewall address-list' -e $'1i\\\nremove [find list=CNIP]' > cnip.rsc
+        iplist="$qqwry\n$ipipnet\n$clang"
+        echo -e "${iplist}" | sed -e 's/^/add address=/g' -e 's/$/ list=china-ip/g' | sed -e $'1i\\\n/ip firewall address-list' -e $'1i\\\nremove [find list=china-ip]' > cnip.rsc
 
     - name: Apply
       run: |
