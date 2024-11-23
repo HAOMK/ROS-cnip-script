@@ -1,5 +1,6 @@
 # ROS-cnip-script
 代码fork自DMF2022/ROS-cnip-script。
+根据个人习惯修改cnip
 
 此列表代码搬运自[kiddin9/china_ip_list](https://github.com/kiddin9/china_ip_list)
 
