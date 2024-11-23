@@ -28,7 +28,7 @@ jobs:
         clang="$(curl -kLfsm 5 https://ispip.clang.cn/all_cn_cidr.txt)"
         echo "$qqwry\n$ipipnet\n$clang" > cnip.rsc
         awk '!seen[$0]++' cnip.rsc
-        iplist = $(cat cnip.rsc)
+        iplist=$(cat cnip.rsc)
         echo -e "${iplist}" | sed -e 's/^/add address=/g' -e 's/$/ list=china-ip/g' | sed -e $'1i\\\n/ip firewall address-list' -e $'1i\\\nremove [find list=china-ip]' > cnip.rsc
 
     - name: Apply
