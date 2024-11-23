@@ -4835,7 +4835,6 @@ add address=223.254.0.0/16 list=china-ip
 add address=223.255.0.0/17 list=china-ip
 add address=223.255.236.0/22 list=china-ip
 add address=223.255.252.0/23 list=china-ip
-add address=1.0.1.0/24 list=china-ip
 add address=1.2.4.0/22 list=china-ip
 add address=1.12.16.0/20 list=china-ip
 add address=1.12.32.0/23 list=china-ip
@@ -8577,4 +8576,3 @@ add address=223.121.128.0/17 list=china-ip
 add address=223.123.128.0/17 list=china-ip
 add address=223.124.0.0/14 list=china-ip
 add address=223.252.128.0/17 list=china-ip
-add address=223.255.252.0/23 list=china-ip
