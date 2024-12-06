@@ -8410,6 +8410,7 @@ add address=160.250.102.0/23 list=china-ip
 add address=160.250.104.0/23 list=china-ip
 add address=160.250.140.0/24 list=china-ip
 add address=160.250.160.0/23 list=china-ip
+add address=160.250.170.0/23 list=china-ip
 add address=163.53.40.0/21 list=china-ip
 add address=164.52.0.0/17 list=china-ip
 add address=175.176.176.0/22 list=china-ip
