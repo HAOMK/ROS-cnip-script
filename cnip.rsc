@@ -8110,6 +8110,8 @@ add address=103.85.24.0/22 list=china-ip
 add address=103.85.224.0/22 list=china-ip
 add address=103.86.80.0/21 list=china-ip
 add address=103.89.112.0/21 list=china-ip
+add address=103.90.51.0/24 list=china-ip
+add address=103.90.56.0/23 list=china-ip
 add address=103.91.252.0/22 list=china-ip
 add address=103.92.0.0/20 list=china-ip
 add address=103.92.86.0/24 list=china-ip
