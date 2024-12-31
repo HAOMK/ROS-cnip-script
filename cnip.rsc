@@ -8203,7 +8203,6 @@ add address=103.132.160.0/21 list=china-ip
 add address=103.132.234.0/23 list=china-ip
 add address=103.133.136.0/22 list=china-ip
 add address=103.133.176.0/22 list=china-ip
-add address=103.134.12.0/24 list=china-ip
 add address=103.138.12.0/23 list=china-ip
 add address=103.138.80.0/22 list=china-ip
 add address=103.138.134.0/23 list=china-ip
