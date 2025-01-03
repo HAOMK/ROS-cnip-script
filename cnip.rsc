@@ -8478,6 +8478,7 @@ add address=160.250.214.0/23 list=china-ip
 add address=160.250.252.0/23 list=china-ip
 add address=161.248.20.0/23 list=china-ip
 add address=161.248.42.0/23 list=china-ip
+add address=161.248.84.0/23 list=china-ip
 add address=163.53.40.0/21 list=china-ip
 add address=164.52.0.0/17 list=china-ip
 add address=175.176.176.0/22 list=china-ip
