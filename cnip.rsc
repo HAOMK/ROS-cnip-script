@@ -5162,7 +5162,11 @@ add address=222.16.0.0/12 list=china-ip
 add address=222.32.0.0/11 list=china-ip
 add address=222.64.0.0/11 list=china-ip
 add address=222.125.0.0/16 list=china-ip
-add address=222.126.128.0/19 list=china-ip
+add address=222.126.128.0/21 list=china-ip
+add address=222.126.136.0/23 list=china-ip
+add address=222.126.139.0/24 list=china-ip
+add address=222.126.140.0/22 list=china-ip
+add address=222.126.144.0/20 list=china-ip
 add address=222.126.160.0/21 list=china-ip
 add address=222.126.168.0/22 list=china-ip
 add address=222.126.172.0/23 list=china-ip
@@ -8225,6 +8229,7 @@ add address=221.176.128.0/17 list=china-ip
 add address=221.177.0.0/16 list=china-ip
 add address=221.178.0.0/15 list=china-ip
 add address=221.180.0.0/14 list=china-ip
+add address=222.126.128.0/19 list=china-ip
 add address=222.126.174.40/29 list=china-ip
 add address=222.126.174.76/30 list=china-ip
 add address=222.126.174.88/29 list=china-ip
