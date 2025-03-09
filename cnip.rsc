@@ -1746,6 +1746,7 @@ add address=103.108.160.0/24 list=china-ip
 add address=103.108.247.0/24 list=china-ip
 add address=103.110.93.0/24 list=china-ip
 add address=103.110.132.0/22 list=china-ip
+add address=103.110.138.0/23 list=china-ip
 add address=103.110.156.0/22 list=china-ip
 add address=103.113.4.0/22 list=china-ip
 add address=103.114.68.0/22 list=china-ip
