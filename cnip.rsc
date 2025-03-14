@@ -8847,6 +8847,7 @@ add address=103.142.190.0/23 list=china-ip
 add address=103.142.220.0/23 list=china-ip
 add address=103.142.230.0/24 list=china-ip
 add address=103.142.248.0/23 list=china-ip
+add address=103.143.120.0/23 list=china-ip
 add address=103.144.40.0/23 list=china-ip
 add address=103.144.52.0/23 list=china-ip
 add address=103.144.240.0/23 list=china-ip
