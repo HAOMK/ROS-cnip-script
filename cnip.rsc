@@ -9064,6 +9064,7 @@ add address=163.61.113.0/24 list=china-ip
 add address=163.223.28.0/23 list=china-ip
 add address=163.223.32.0/23 list=china-ip
 add address=163.223.68.0/23 list=china-ip
+add address=163.223.124.0/23 list=china-ip
 add address=164.52.0.0/17 list=china-ip
 add address=180.76.0.0/14 list=china-ip
 add address=180.210.224.0/19 list=china-ip
