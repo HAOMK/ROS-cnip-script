@@ -515,7 +515,7 @@ add address=43.228.204.0/22 list=china-ip
 add address=43.228.240.0/22 list=china-ip
 add address=43.229.49.0/24 list=china-ip
 add address=43.229.50.0/23 list=china-ip
-add address=43.229.184.0/24 list=china-ip
+add address=43.229.184.0/22 list=china-ip
 add address=43.229.216.0/22 list=china-ip
 add address=43.229.236.0/22 list=china-ip
 add address=43.230.20.0/22 list=china-ip
