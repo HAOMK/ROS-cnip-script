@@ -1660,6 +1660,7 @@ add address=103.74.24.0/21 list=china-ip
 add address=103.74.32.0/20 list=china-ip
 add address=103.74.48.0/22 list=china-ip
 add address=103.75.88.0/22 list=china-ip
+add address=103.75.104.0/22 list=china-ip
 add address=103.75.152.0/22 list=china-ip
 add address=103.77.56.0/22 list=china-ip
 add address=103.78.60.0/22 list=china-ip
