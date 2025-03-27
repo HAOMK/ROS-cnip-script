@@ -8976,7 +8976,6 @@ add address=113.192.56.0/23 list=china-ip
 add address=113.212.88.0/22 list=china-ip
 add address=114.28.0.0/16 list=china-ip
 add address=114.112.0.0/14 list=china-ip
-add address=114.134.188.0/23 list=china-ip
 add address=115.31.64.0/20 list=china-ip
 add address=115.168.0.0/13 list=china-ip
 add address=116.85.0.0/16 list=china-ip
