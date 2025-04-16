@@ -3680,7 +3680,7 @@ add address=192.55.68.0/22 list=china-ip
 add address=192.56.99.0/24 list=china-ip
 add address=192.102.204.0/22 list=china-ip
 add address=192.124.154.0/24 list=china-ip
-add address=192.140.160.0/20 list=china-ip
+add address=192.140.160.0/19 list=china-ip
 add address=192.140.208.0/21 list=china-ip
 add address=192.144.128.0/17 list=china-ip
 add address=192.163.11.0/24 list=china-ip
@@ -8282,7 +8282,6 @@ add address=192.137.31.0/24 list=china-ip
 add address=192.140.128.0/21 list=china-ip
 add address=192.140.136.0/22 list=china-ip
 add address=192.140.156.0/22 list=china-ip
-add address=192.140.160.0/19 list=china-ip
 add address=192.140.192.0/20 list=china-ip
 add address=192.232.97.0/24 list=china-ip
 add address=193.119.0.0/21 list=china-ip
@@ -8813,7 +8812,6 @@ add address=103.116.72.0/21 list=china-ip
 add address=103.116.148.0/22 list=china-ip
 add address=103.116.206.0/23 list=china-ip
 add address=103.117.72.0/22 list=china-ip
-add address=103.117.136.0/22 list=china-ip
 add address=103.118.192.0/19 list=china-ip
 add address=103.118.240.0/20 list=china-ip
 add address=103.119.0.0/22 list=china-ip
