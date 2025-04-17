@@ -3143,7 +3143,6 @@ add address=124.14.0.0/15 list=china-ip
 add address=124.16.0.0/15 list=china-ip
 add address=124.20.0.0/16 list=china-ip
 add address=124.21.0.0/18 list=china-ip
-add address=124.21.96.0/19 list=china-ip
 add address=124.21.128.0/17 list=china-ip
 add address=124.22.0.0/15 list=china-ip
 add address=124.28.192.0/18 list=china-ip
@@ -9075,6 +9074,9 @@ add address=163.223.216.0/23 list=china-ip
 add address=163.223.222.0/23 list=china-ip
 add address=163.227.34.0/23 list=china-ip
 add address=163.227.40.0/23 list=china-ip
+add address=163.227.74.0/23 list=china-ip
+add address=163.227.76.0/22 list=china-ip
+add address=163.227.80.0/23 list=china-ip
 add address=164.52.0.0/17 list=china-ip
 add address=180.76.0.0/14 list=china-ip
 add address=180.210.224.0/19 list=china-ip
