@@ -3461,6 +3461,7 @@ add address=161.163.0.0/21 list=china-ip
 add address=161.163.28.0/23 list=china-ip
 add address=161.189.0.0/16 list=china-ip
 add address=161.207.0.0/16 list=china-ip
+add address=161.248.20.0/23 list=china-ip
 add address=162.14.0.0/22 list=china-ip
 add address=162.14.8.0/21 list=china-ip
 add address=162.14.16.0/20 list=china-ip
@@ -8195,7 +8196,6 @@ add address=160.250.170.0/23 list=china-ip
 add address=160.250.214.0/23 list=china-ip
 add address=160.250.252.0/23 list=china-ip
 add address=161.120.0.0/16 list=china-ip
-add address=161.248.20.0/23 list=china-ip
 add address=161.248.42.0/23 list=china-ip
 add address=161.248.84.0/23 list=china-ip
 add address=161.248.92.0/23 list=china-ip
