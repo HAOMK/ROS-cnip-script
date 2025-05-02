@@ -8819,7 +8819,6 @@ add address=103.119.16.0/22 list=china-ip
 add address=103.119.104.0/22 list=china-ip
 add address=103.119.224.0/22 list=china-ip
 add address=103.120.96.0/21 list=china-ip
-add address=103.121.92.0/22 list=china-ip
 add address=103.121.250.0/24 list=china-ip
 add address=103.122.176.0/22 list=china-ip
 add address=103.122.240.0/22 list=china-ip
@@ -9035,6 +9034,7 @@ add address=123.108.128.0/20 list=china-ip
 add address=123.136.80.0/20 list=china-ip
 add address=124.20.0.0/14 list=china-ip
 add address=124.68.0.0/14 list=china-ip
+add address=124.197.56.0/21 list=china-ip
 add address=125.208.0.0/18 list=china-ip
 add address=139.5.108.0/22 list=china-ip
 add address=139.5.212.0/22 list=china-ip
