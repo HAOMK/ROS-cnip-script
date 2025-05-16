@@ -9149,7 +9149,8 @@ add address=221.128.128.0/17 list=china-ip
 add address=222.126.128.0/17 list=china-ip
 add address=223.120.128.0/17 list=china-ip
 add address=223.121.128.0/17 list=china-ip
-add address=223.123.128.0/17 list=china-ip
+add address=223.123.208.0/20 list=china-ip
+add address=223.123.224.0/19 list=china-ip
 add address=223.124.0.0/14 list=china-ip
 add address=223.252.128.0/17 list=china-ip
 add address=223.254.0.0/16 list=china-ip
