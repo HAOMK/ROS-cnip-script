@@ -1012,6 +1012,7 @@ add address=59.153.68.0/22 list=china-ip
 add address=59.153.72.0/22 list=china-ip
 add address=59.153.92.0/22 list=china-ip
 add address=59.153.164.0/22 list=china-ip
+add address=59.153.168.0/24 list=china-ip
 add address=59.155.0.0/16 list=china-ip
 add address=59.172.0.0/14 list=china-ip
 add address=59.191.0.0/17 list=china-ip
