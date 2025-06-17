@@ -1945,6 +1945,7 @@ add address=103.196.88.0/21 list=china-ip
 add address=103.197.1.0/24 list=china-ip
 add address=103.197.2.0/23 list=china-ip
 add address=103.197.228.0/22 list=china-ip
+add address=103.198.60.0/22 list=china-ip
 add address=103.198.64.0/22 list=china-ip
 add address=103.198.72.0/22 list=china-ip
 add address=103.198.124.0/22 list=china-ip
@@ -6775,7 +6776,6 @@ add address=103.196.96.0/22 list=china-ip
 add address=103.196.168.0/22 list=china-ip
 add address=103.197.0.0/22 list=china-ip
 add address=103.198.20.0/22 list=china-ip
-add address=103.198.60.0/22 list=china-ip
 add address=103.198.156.0/22 list=china-ip
 add address=103.198.180.0/22 list=china-ip
 add address=103.198.196.0/22 list=china-ip
