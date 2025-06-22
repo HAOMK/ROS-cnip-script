@@ -1853,7 +1853,7 @@ add address=103.133.40.0/22 list=china-ip
 add address=103.133.128.0/22 list=china-ip
 add address=103.133.232.0/22 list=china-ip
 add address=103.135.160.0/22 list=china-ip
-add address=103.135.192.0/24 list=china-ip
+add address=103.135.192.0/23 list=china-ip
 add address=103.135.194.0/24 list=china-ip
 add address=103.135.196.0/22 list=china-ip
 add address=103.137.60.0/24 list=china-ip
