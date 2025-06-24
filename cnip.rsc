@@ -1951,6 +1951,8 @@ add address=103.199.244.0/22 list=china-ip
 add address=103.199.248.0/21 list=china-ip
 add address=103.200.136.0/21 list=china-ip
 add address=103.200.144.0/21 list=china-ip
+add address=103.200.221.0/24 list=china-ip
+add address=103.200.222.0/24 list=china-ip
 add address=103.202.0.0/19 list=china-ip
 add address=103.202.32.0/20 list=china-ip
 add address=103.202.92.0/22 list=china-ip
