@@ -3197,8 +3197,6 @@ add address=124.6.64.0/18 list=china-ip
 add address=124.14.0.0/15 list=china-ip
 add address=124.16.0.0/15 list=china-ip
 add address=124.20.0.0/16 list=china-ip
-add address=124.21.32.0/19 list=china-ip
-add address=124.21.96.0/19 list=china-ip
 add address=124.21.128.0/17 list=china-ip
 add address=124.22.0.0/15 list=china-ip
 add address=124.28.192.0/18 list=china-ip
