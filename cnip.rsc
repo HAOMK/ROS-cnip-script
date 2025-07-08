@@ -9104,6 +9104,7 @@ add address=165.101.4.0/23 list=china-ip
 add address=165.101.66.0/23 list=china-ip
 add address=165.101.70.0/23 list=china-ip
 add address=165.101.122.0/23 list=china-ip
+add address=165.101.144.0/23 list=china-ip
 add address=180.76.0.0/14 list=china-ip
 add address=180.210.224.0/19 list=china-ip
 add address=182.50.0.0/20 list=china-ip
