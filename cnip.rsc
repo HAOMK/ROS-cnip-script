@@ -8836,7 +8836,6 @@ add address=103.115.48.0/20 list=china-ip
 add address=103.115.64.0/21 list=china-ip
 add address=103.116.40.0/22 list=china-ip
 add address=103.116.64.0/22 list=china-ip
-add address=103.116.72.0/21 list=china-ip
 add address=103.116.148.0/22 list=china-ip
 add address=103.116.206.0/23 list=china-ip
 add address=103.117.72.0/22 list=china-ip
