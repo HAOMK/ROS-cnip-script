@@ -3440,6 +3440,7 @@ add address=150.242.184.0/22 list=china-ip
 add address=150.242.224.0/22 list=china-ip
 add address=150.242.232.0/22 list=china-ip
 add address=150.242.238.0/23 list=china-ip
+add address=150.242.244.0/22 list=china-ip
 add address=150.242.248.0/22 list=china-ip
 add address=150.255.0.0/16 list=china-ip
 add address=152.104.176.0/22 list=china-ip
