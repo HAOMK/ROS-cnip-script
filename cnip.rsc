@@ -8696,6 +8696,7 @@ add address=43.251.232.0/21 list=china-ip
 add address=45.40.192.0/18 list=china-ip
 add address=45.112.208.0/20 list=china-ip
 add address=45.114.124.0/22 list=china-ip
+add address=45.115.18.0/23 list=china-ip
 add address=45.115.228.0/22 list=china-ip
 add address=45.115.236.0/22 list=china-ip
 add address=45.119.52.0/22 list=china-ip
