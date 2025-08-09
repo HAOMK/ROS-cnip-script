@@ -2165,8 +2165,7 @@ add address=103.238.204.0/22 list=china-ip
 add address=103.239.44.0/22 list=china-ip
 add address=103.239.68.0/22 list=china-ip
 add address=103.239.152.0/22 list=china-ip
-add address=103.239.184.0/24 list=china-ip
-add address=103.239.186.0/23 list=china-ip
+add address=103.239.184.0/22 list=china-ip
 add address=103.239.192.0/22 list=china-ip
 add address=103.239.204.0/22 list=china-ip
 add address=103.239.244.0/22 list=china-ip
@@ -7004,7 +7003,6 @@ add address=103.238.252.0/22 list=china-ip
 add address=103.239.0.0/22 list=china-ip
 add address=103.239.152.0/21 list=china-ip
 add address=103.239.180.0/22 list=china-ip
-add address=103.239.184.0/22 list=china-ip
 add address=103.239.192.0/21 list=china-ip
 add address=103.239.208.0/22 list=china-ip
 add address=103.239.224.0/22 list=china-ip
