@@ -9557,6 +9557,7 @@ add address=114.216.0.0/13 list=china-ip
 add address=115.32.0.0/19 list=china-ip
 add address=115.32.32.0/21 list=china-ip
 add address=115.32.56.0/21 list=china-ip
+add address=115.32.64.0/19 list=china-ip
 add address=115.102.0.0/16 list=china-ip
 add address=115.120.0.0/17 list=china-ip
 add address=115.120.128.0/20 list=china-ip
