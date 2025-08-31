@@ -8674,6 +8674,7 @@ add address=1.8.8.0/24 list=china-ip
 add address=1.12.0.0/14 list=china-ip
 add address=1.118.2.0/24 list=china-ip
 add address=1.118.32.0/22 list=china-ip
+add address=1.118.36.0/24 list=china-ip
 add address=1.119.0.0/17 list=china-ip
 add address=1.119.128.0/18 list=china-ip
 add address=1.119.192.0/20 list=china-ip
