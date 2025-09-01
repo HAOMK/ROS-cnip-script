@@ -8786,6 +8786,8 @@ add address=43.228.0.0/19 list=china-ip
 add address=43.228.36.0/22 list=china-ip
 add address=43.228.40.0/21 list=china-ip
 add address=43.228.48.0/20 list=china-ip
+add address=43.229.48.0/23 list=china-ip
+add address=43.229.51.0/24 list=china-ip
 add address=43.230.136.0/22 list=china-ip
 add address=43.231.32.0/22 list=china-ip
 add address=43.231.41.0/24 list=china-ip
