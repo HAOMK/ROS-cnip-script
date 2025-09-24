@@ -9240,6 +9240,8 @@ add address=103.105.200.0/23 list=china-ip
 add address=103.105.202.0/24 list=china-ip
 add address=103.113.92.0/22 list=china-ip
 add address=103.114.158.0/23 list=china-ip
+add address=103.116.76.0/23 list=china-ip
+add address=103.116.78.0/24 list=china-ip
 add address=103.116.120.0/23 list=china-ip
 add address=103.116.123.0/24 list=china-ip
 add address=103.117.248.0/22 list=china-ip
@@ -10282,6 +10284,7 @@ add address=163.53.128.0/22 list=china-ip
 add address=163.61.214.0/24 list=china-ip
 add address=163.223.173.0/24 list=china-ip
 add address=163.223.178.0/23 list=china-ip
+add address=165.101.122.0/23 list=china-ip
 add address=167.148.46.0/24 list=china-ip
 add address=168.160.0.0/17 list=china-ip
 add address=168.160.152.0/24 list=china-ip
