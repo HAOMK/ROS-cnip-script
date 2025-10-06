@@ -9220,7 +9220,6 @@ add address=103.74.127.0/24 list=china-ip
 add address=103.77.72.0/22 list=china-ip
 add address=103.77.92.0/22 list=china-ip
 add address=103.78.126.0/23 list=china-ip
-add address=103.79.120.0/22 list=china-ip
 add address=103.79.228.0/24 list=china-ip
 add address=103.83.120.0/22 list=china-ip
 add address=103.84.136.0/22 list=china-ip
@@ -10416,8 +10415,6 @@ add address=202.67.3.0/24 list=china-ip
 add address=202.80.192.0/22 list=china-ip
 add address=202.84.17.0/24 list=china-ip
 add address=202.90.96.0/20 list=china-ip
-add address=202.91.36.0/24 list=china-ip
-add address=202.91.38.0/24 list=china-ip
 add address=202.91.176.0/21 list=china-ip
 add address=202.91.184.0/23 list=china-ip
 add address=202.91.186.0/24 list=china-ip
