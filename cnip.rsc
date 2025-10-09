@@ -9508,6 +9508,7 @@ add address=113.197.101.0/24 list=china-ip
 add address=113.197.103.0/24 list=china-ip
 add address=113.208.112.0/21 list=china-ip
 add address=113.209.128.0/17 list=china-ip
+add address=113.213.0.0/18 list=china-ip
 add address=113.213.64.0/19 list=china-ip
 add address=113.213.96.0/20 list=china-ip
 add address=114.28.68.0/22 list=china-ip
