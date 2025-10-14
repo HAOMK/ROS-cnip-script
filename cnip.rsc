@@ -10262,7 +10262,6 @@ add address=156.242.6.0/24 list=china-ip
 add address=157.10.34.0/24 list=china-ip
 add address=157.10.105.0/24 list=china-ip
 add address=158.140.252.0/22 list=china-ip
-add address=160.19.82.0/24 list=china-ip
 add address=160.19.208.0/22 list=china-ip
 add address=160.22.244.0/23 list=china-ip
 add address=160.30.148.0/22 list=china-ip
