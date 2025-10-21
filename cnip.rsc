@@ -9269,9 +9269,6 @@ add address=103.133.128.0/23 list=china-ip
 add address=103.133.176.0/22 list=china-ip
 add address=103.134.136.0/22 list=china-ip
 add address=103.135.100.0/24 list=china-ip
-add address=103.135.192.0/24 list=china-ip
-add address=103.135.194.0/23 list=china-ip
-add address=103.135.196.0/22 list=china-ip
 add address=103.135.236.0/24 list=china-ip
 add address=103.138.156.0/23 list=china-ip
 add address=103.139.136.0/23 list=china-ip
