@@ -8739,7 +8739,6 @@ add address=36.255.164.0/24 list=china-ip
 add address=36.255.192.0/24 list=china-ip
 add address=38.111.220.0/23 list=china-ip
 add address=38.211.199.0/24 list=china-ip
-add address=38.213.146.0/24 list=china-ip
 add address=42.0.128.0/17 list=china-ip
 add address=42.48.0.0/15 list=china-ip
 add address=42.51.0.0/16 list=china-ip
