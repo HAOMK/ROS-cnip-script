@@ -9214,6 +9214,8 @@ add address=103.51.62.0/23 list=china-ip
 add address=103.52.100.0/22 list=china-ip
 add address=103.53.208.0/24 list=china-ip
 add address=103.53.211.0/24 list=china-ip
+add address=103.57.136.0/23 list=china-ip
+add address=103.57.139.0/24 list=china-ip
 add address=103.61.60.0/22 list=china-ip
 add address=103.65.8.0/22 list=china-ip
 add address=103.69.116.0/22 list=china-ip
