@@ -9746,8 +9746,6 @@ add address=118.145.128.0/19 list=china-ip
 add address=118.145.160.0/21 list=china-ip
 add address=118.145.176.0/20 list=china-ip
 add address=118.145.192.0/18 list=china-ip
-add address=118.184.105.0/24 list=china-ip
-add address=118.184.106.0/23 list=china-ip
 add address=118.186.0.0/19 list=china-ip
 add address=118.186.32.0/24 list=china-ip
 add address=118.186.34.0/23 list=china-ip
@@ -9783,8 +9781,6 @@ add address=118.192.67.0/24 list=china-ip
 add address=118.192.68.0/23 list=china-ip
 add address=118.192.70.0/24 list=china-ip
 add address=118.192.96.0/19 list=china-ip
-add address=118.193.144.0/24 list=china-ip
-add address=118.193.176.0/24 list=china-ip
 add address=118.194.32.0/19 list=china-ip
 add address=118.194.128.0/21 list=china-ip
 add address=118.194.164.0/22 list=china-ip
