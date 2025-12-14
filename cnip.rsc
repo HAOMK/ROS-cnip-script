@@ -9155,6 +9155,8 @@ add address=103.3.112.0/20 list=china-ip
 add address=103.3.128.0/22 list=china-ip
 add address=103.3.136.0/21 list=china-ip
 add address=103.5.52.0/24 list=china-ip
+add address=103.5.192.0/23 list=china-ip
+add address=103.5.194.0/24 list=china-ip
 add address=103.9.252.0/22 list=china-ip
 add address=103.13.12.0/24 list=china-ip
 add address=103.14.78.0/24 list=china-ip
