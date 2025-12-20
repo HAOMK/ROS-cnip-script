@@ -8872,6 +8872,7 @@ add address=45.202.209.0/24 list=china-ip
 add address=45.202.210.0/23 list=china-ip
 add address=45.202.212.0/24 list=china-ip
 add address=45.248.108.0/24 list=china-ip
+add address=45.249.188.0/24 list=china-ip
 add address=45.249.208.0/23 list=china-ip
 add address=45.249.212.0/22 list=china-ip
 add address=45.250.152.0/23 list=china-ip
