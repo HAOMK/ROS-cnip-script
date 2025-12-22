@@ -10196,6 +10196,7 @@ add address=144.7.0.0/17 list=china-ip
 add address=144.36.146.0/23 list=china-ip
 add address=144.48.212.0/22 list=china-ip
 add address=144.48.252.0/22 list=china-ip
+add address=144.79.70.0/23 list=china-ip
 add address=145.14.71.0/24 list=china-ip
 add address=145.14.72.0/22 list=china-ip
 add address=145.14.81.0/24 list=china-ip
