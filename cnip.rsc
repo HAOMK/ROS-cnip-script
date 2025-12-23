@@ -10192,6 +10192,7 @@ add address=140.210.224.0/20 list=china-ip
 add address=141.11.141.0/24 list=china-ip
 add address=143.14.49.0/24 list=china-ip
 add address=143.20.147.0/24 list=china-ip
+add address=143.20.246.0/24 list=china-ip
 add address=144.7.0.0/17 list=china-ip
 add address=144.36.146.0/23 list=china-ip
 add address=144.48.212.0/22 list=china-ip
