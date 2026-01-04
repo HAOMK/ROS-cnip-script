@@ -9424,6 +9424,7 @@ add address=111.235.174.0/24 list=china-ip
 add address=111.235.178.0/23 list=china-ip
 add address=111.235.180.0/23 list=china-ip
 add address=111.235.182.0/24 list=china-ip
+add address=112.73.96.0/19 list=china-ip
 add address=112.74.0.0/16 list=china-ip
 add address=112.196.208.0/24 list=china-ip
 add address=113.44.0.0/16 list=china-ip
