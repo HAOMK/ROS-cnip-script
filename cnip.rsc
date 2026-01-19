@@ -8844,7 +8844,7 @@ add address=45.113.206.0/24 list=china-ip
 add address=45.114.189.0/24 list=china-ip
 add address=45.116.32.0/22 list=china-ip
 add address=45.116.100.0/22 list=china-ip
-add address=45.119.104.0/23 list=china-ip
+add address=45.119.105.0/24 list=china-ip
 add address=45.120.241.0/24 list=china-ip
 add address=45.120.243.0/24 list=china-ip
 add address=45.121.52.0/24 list=china-ip
@@ -8961,6 +8961,7 @@ add address=59.81.102.0/23 list=china-ip
 add address=59.81.104.0/22 list=china-ip
 add address=59.82.0.0/17 list=china-ip
 add address=59.82.128.0/20 list=china-ip
+add address=59.82.144.0/21 list=china-ip
 add address=59.83.192.0/19 list=china-ip
 add address=59.83.224.0/21 list=china-ip
 add address=59.83.232.0/22 list=china-ip
@@ -9390,9 +9391,7 @@ add address=109.111.255.0/24 list=china-ip
 add address=110.40.0.0/24 list=china-ip
 add address=110.40.13.0/24 list=china-ip
 add address=110.40.14.0/23 list=china-ip
-add address=110.40.16.0/20 list=china-ip
-add address=110.40.32.0/19 list=china-ip
-add address=110.40.64.0/18 list=china-ip
+add address=110.40.16.0/24 list=china-ip
 add address=110.40.128.0/17 list=china-ip
 add address=110.41.0.0/16 list=china-ip
 add address=110.76.0.0/18 list=china-ip
