@@ -10021,10 +10021,13 @@ add address=122.144.232.0/22 list=china-ip
 add address=122.144.236.0/23 list=china-ip
 add address=122.144.240.0/24 list=china-ip
 add address=122.144.248.0/23 list=china-ip
-add address=122.200.64.0/19 list=china-ip
-add address=122.200.96.0/21 list=china-ip
+add address=122.200.68.0/23 list=china-ip
+add address=122.200.78.0/24 list=china-ip
+add address=122.200.82.0/24 list=china-ip
+add address=122.200.84.0/23 list=china-ip
+add address=122.200.86.0/24 list=china-ip
+add address=122.200.92.0/23 list=china-ip
 add address=122.200.104.0/22 list=china-ip
-add address=122.200.112.0/21 list=china-ip
 add address=122.200.120.0/22 list=china-ip
 add address=122.200.124.0/24 list=china-ip
 add address=122.248.48.0/21 list=china-ip
@@ -10034,7 +10037,6 @@ add address=123.49.231.0/24 list=china-ip
 add address=123.49.232.0/24 list=china-ip
 add address=123.49.240.0/24 list=china-ip
 add address=123.49.242.0/23 list=china-ip
-add address=123.49.245.0/24 list=china-ip
 add address=123.58.0.0/19 list=china-ip
 add address=123.58.32.0/20 list=china-ip
 add address=123.58.48.0/24 list=china-ip
