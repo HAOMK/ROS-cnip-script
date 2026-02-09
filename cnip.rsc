@@ -9063,6 +9063,7 @@ add address=77.107.118.0/24 list=china-ip
 add address=81.173.18.0/23 list=china-ip
 add address=81.173.20.0/22 list=china-ip
 add address=81.173.28.0/24 list=china-ip
+add address=85.149.220.0/24 list=china-ip
 add address=85.237.205.0/24 list=china-ip
 add address=101.39.0.0/16 list=china-ip
 add address=101.40.0.0/16 list=china-ip
@@ -10318,7 +10319,6 @@ add address=193.119.30.0/24 list=china-ip
 add address=194.15.39.0/24 list=china-ip
 add address=194.127.229.0/24 list=china-ip
 add address=199.182.239.0/24 list=china-ip
-add address=202.4.128.0/20 list=china-ip
 add address=202.14.236.0/23 list=china-ip
 add address=202.14.238.0/24 list=china-ip
 add address=202.38.2.0/23 list=china-ip
