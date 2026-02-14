@@ -1906,6 +1906,7 @@ add address=103.152.28.0/23 list=china-ip
 add address=103.152.56.0/23 list=china-ip
 add address=103.152.76.0/23 list=china-ip
 add address=103.152.186.0/23 list=china-ip
+add address=103.152.208.0/23 list=china-ip
 add address=103.152.224.0/24 list=china-ip
 add address=103.154.30.0/23 list=china-ip
 add address=103.154.41.0/24 list=china-ip
@@ -6627,7 +6628,6 @@ add address=103.152.152.0/23 list=china-ip
 add address=103.152.168.0/23 list=china-ip
 add address=103.152.192.0/23 list=china-ip
 add address=103.152.200.0/23 list=china-ip
-add address=103.152.208.0/23 list=china-ip
 add address=103.152.224.0/23 list=china-ip
 add address=103.152.250.0/23 list=china-ip
 add address=103.153.114.0/23 list=china-ip
