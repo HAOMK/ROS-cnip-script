@@ -10240,6 +10240,7 @@ add address=175.188.188.0/22 list=china-ip
 add address=175.190.24.0/21 list=china-ip
 add address=175.190.126.0/23 list=china-ip
 add address=178.219.5.0/24 list=china-ip
+add address=178.236.38.0/23 list=china-ip
 add address=178.253.239.0/24 list=china-ip
 add address=180.88.96.0/19 list=china-ip
 add address=180.88.128.0/18 list=china-ip
