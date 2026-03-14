@@ -9601,6 +9601,7 @@ add address=116.198.144.0/20 list=china-ip
 add address=116.198.160.0/20 list=china-ip
 add address=116.198.176.0/21 list=china-ip
 add address=116.198.192.0/18 list=china-ip
+add address=116.199.156.0/22 list=china-ip
 add address=116.213.45.0/24 list=china-ip
 add address=116.214.128.0/22 list=china-ip
 add address=116.214.132.0/23 list=china-ip
