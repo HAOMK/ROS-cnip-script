@@ -8984,7 +8984,6 @@ add address=59.111.160.0/21 list=china-ip
 add address=59.111.168.0/22 list=china-ip
 add address=59.111.173.0/24 list=china-ip
 add address=59.111.175.0/24 list=china-ip
-add address=59.111.176.0/24 list=china-ip
 add address=59.111.178.0/23 list=china-ip
 add address=59.111.181.0/24 list=china-ip
 add address=59.111.182.0/23 list=china-ip
